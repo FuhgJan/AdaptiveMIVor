@@ -1,2 +1,4 @@
 # AdaptiveMIVor
 MIVor: An innovative adaptive Kriging approach for efficient problem classification.
+
+Kriging method is an efficient machine-learning tool, which allows to supply an approximative response of the investigated phenomenon on the whole parametric space from few observations either as numerical or physical outcome. Adaptive scheme in Kriging provides a second ability by guiding new experiments, which may again come from numerical or physical tests. Herein a novel adaptive scheme called MiVor is proposed to identify efficiently some classification subdomains on the basis of a regression surrogate model. The performances of the innovative approach are tested for the identification of the parametric subdomain of instability for a non-smooth dynamic friction problem and compare with some alternative methods. For the specific problems of interest, MiVor appears to perform very well.
