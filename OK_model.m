@@ -280,7 +280,7 @@ classdef OK_model
                     
                     
                     [~,IndexmaxVol_SubSet] = max(Vol(IndexClass1));
-                    indexmaxVol = IndexGreater0(IndexmaxVol_SubSet);
+                    indexmaxVol = IndexClass1(IndexmaxVol_SubSet);
                     
                     [newPoint,~] = findNewPointInHighestVolume(obj,voronoi_matrix,indexmaxVol);
                     [~,D] = knnsearch(obj.X,newPoint,'K',obj.m);
