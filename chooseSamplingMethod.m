@@ -22,7 +22,8 @@ adaptive_methods{3} ='Initial_error';
 
 % Choose one or multiple sampling techniques by setting j value. Can be
 % parallelized via parfor.
-for j=2:2
+for j=1:1
+    close all
     for i=1:max_iteration
         St = ['Computation of ', adaptive_methods{j},'   Iteration number: ', num2str(i), ' of ', num2str(max_iteration)];
         disp(St)
