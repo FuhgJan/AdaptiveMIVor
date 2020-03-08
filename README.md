@@ -30,7 +30,6 @@ We included three working examples similarly to what is found in the paper.
 
 <p align="center">
 <img align="middle" src="./docs/TestCase1_MetaVor.gif" alt="ODE Demo" width="400" height="500" />
-  <img align="middle" src="./docs/TestCase1_Vor.gif" alt="ODE Demo" width="400" height="500" />
 </p>
 
 ### Adapitve process Example 2
