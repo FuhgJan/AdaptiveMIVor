@@ -14,7 +14,7 @@ Matlab version R2017a or higher.
 
 ## Examples 
 
-We included three working examples similarly to what is found in the paper.
+The three following working examples similarly to what is found in the paper are included in this code.
 
 ---
 
@@ -26,16 +26,16 @@ We included three working examples similarly to what is found in the paper.
 
 ---
 
-### Adapitve process Example 1
+### Adaptive process Example 1
 
 <p align="center">
  <kbd><img align="middle" src="./docs/TestCase1_MetaVor.gif" alt="ODE Demo" width="300" height="300" border="50" /></kbd>
   <kbd><img align="middle" src="./docs/TestCase1_Vor.gif" alt="ODE Demo" width="400" height="300" border="50" /></kbd>
 </p>
 
-### Adapitve process Example 2
+### Adaptive process Example 2
 
-### Adapitve process Example 3
+### Adaptive process Example 3
 ---
 
 # References
