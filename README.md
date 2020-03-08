@@ -19,7 +19,9 @@ We included three working examples similarly to what is found in the paper.
 ---
 
 <p align="center">
-  <img align="middle" src="./docs/TestCase1_Image.png" alt="Example 1" width="400" height="400" />
+  <img align="left" src="./docs/TestCase1_Image.png" alt="Example 1" width="400" height="400" />
+  <img align="middle" src="./docs/TestCase2_Image.png" alt="Example 1" width="400" height="400" />
+  <img align="right" src="./docs/TestCase3_Image.png" alt="Example 1" width="400" height="400" />
 </p>
 
 
