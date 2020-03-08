@@ -24,6 +24,13 @@ We included three working examples similarly to what is found in the paper.
   <img align="middle" src="./docs/TestCase3_Image.png" alt="Example 1" width="250" height="250" />
 </p>
 
+---
+
+### Adapitve process Example 1
+
+### Adapitve process Example 2
+
+### Adapitve process Example 3
 
 ### References
 
