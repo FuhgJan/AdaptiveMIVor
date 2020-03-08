@@ -19,7 +19,7 @@ We included three working examples similarly to what is found in the paper.
 ---
 
 <p align="center">
-  <img align="middle" src="./docs/TestCase1_Image.pdf" alt="Example 1" width="240" height="330" />
+  <img align="middle" src="./docs/TestCase1_Image.png" alt="Example 1" width="240" height="330" />
 </p>
 
 
