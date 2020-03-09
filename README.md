@@ -14,7 +14,7 @@ Matlab version R2017a or higher.
 
 ## Examples 
 
-The three following working examples similarly to what is found in the paper are included in this code.
+The three following working examples similarly to what is found in the paper are included in this code for which the classification boundary limit is set to 0.0 for each case.
 
 ---
 
