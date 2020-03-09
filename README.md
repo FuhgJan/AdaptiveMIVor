@@ -30,7 +30,9 @@ The three following working examples similarly to what is found in the paper are
 The following Gifs show an exemplary sampling process for example 1. 
 <p align="center">
  <kbd><img align="middle" src="./docs/TestCase1_MetaVor.gif" alt="ODE Demo" width="300" height="300" border="50" /></kbd>
+   <em>image_caption</em>
   <kbd><img align="middle" src="./docs/TestCase1_Vor.gif" alt="ODE Demo" width="400" height="300" border="50" /></kbd>
+   <em>image_caption</em>
 </p>
 
 ### Adaptive sampling process Examples 2 and 3
