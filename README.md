@@ -36,7 +36,7 @@ The following Gifs show an exemplary sampling process for example 1.
 ### Adaptive process Examples 2 and 3
 
 <p align="center">
- <kbd><img align="middle" src="./docs/TestCase1_MetaVor.gif" alt="ODE Demo" width="300" height="300" border="50" /></kbd>
+ <kbd><img align="middle" src="./docs/TestCase2_Meta.gif" alt="ODE Demo" width="300" height="300" border="50" /></kbd>
   <kbd><img align="middle" src="./docs/TestCase3_Meta.gif" alt="ODE Demo" width="300" height="300" border="50" /></kbd>
 </p>
 
