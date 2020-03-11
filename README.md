@@ -1,8 +1,7 @@
 # AdaptiveMIVor
 The Monte Carlo-intersite Voronoi (MiVor) adaptive scheme is an adaptive sampling technqiue for ordinary Kriging. 
 
-The following library provides a Matlab implementation of the MiVor algorithm. For tests of the method three different test cases with different degrees of complexity are provided within this framework.
-
+The following library provides a Matlab implementation of the MiVor algorithm. In order to show applicability of the method three different test cases with different degrees of complexity are provided within this framework.
 
 ## Getting Started
 
